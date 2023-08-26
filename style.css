@@ -1,0 +1,41 @@
+#main-heading {
+    font-size: 60px;
+    color: azure;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+.recipes {
+    color: pink;
+    list-style-position: inside;
+    text-align: center;
+    
+}
+
+a {
+    color: pink;
+}
+
+a:hover{
+    color: aqua;
+}
+
+.recipes .one {
+    padding-top: 75px;
+    font-size: 30px;
+}
+
+.recipes .two,
+.recipes .three{
+    padding-top: 150px;
+    font-size: 30px;
+}
+
+.recipes .two {
+    padding-right: 150px;
+}
+
+.recipes .three {
+    padding-left: 35px;
+}
