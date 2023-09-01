@@ -29,8 +29,8 @@ a:hover{
     background: darkred;
     height: 60px;
     width: 500px;
-    border: 1px solid pink;
-    margin: 1px;
+    border: 2px solid pink;
+    margin: 5px;
 }
 
 .recipes .two {
